@@ -22,7 +22,7 @@ li a {
     float: right;
     display: block;
 }
-img {
+#motor_logo {
     float: left;
     margin-left: 10px;
     margin-top: 5px;
@@ -33,7 +33,7 @@ img {
     font-family: cursive;
     font-size: 22px;
     text-align: center;
-    padding-top: 30px;
+    padding-top: 62px;
 }
 #body {
     text-align: center;
@@ -54,12 +54,20 @@ img {
     text-decoration: underline;
 }
 #spacing1 {
-    padding-left: 572px;
-    padding-right: 516px;
+    padding-left: 526px;
+    padding-right: 526px;
 }
-#motor-orig {
+#motor_orig {
+    align-items: center;
+    justify-content: center;
+    margin-left: 210px;
+    margin-top: 50px;
+    display: flex;
+}
+#near_gif {
     text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    font-size: 20px;
+    position: absolute;
+    line-height: 1.7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
