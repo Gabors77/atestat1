@@ -71,7 +71,7 @@ li a {
 #motor_orig {
     align-items: center;
     justify-content: center;
-    margin-left: 210px;
+    margin-left: 120px;
     margin-top: 50px;
     display: flex;
 }
@@ -88,10 +88,11 @@ li a {
     margin: 0rem 10rem;
     align-items: center;
     justify-content: space-evenly;
+    margin-bottom: 2rem;
 }
 
 #LMAO {
-    width: 10%;
+    width: 35%;
 }
 
 #LMAO2 {
@@ -116,4 +117,51 @@ li a {
         margin: 5px;
         font-family: cursive;
     }
+}
+
+.istorie {
+    display: flex;
+    margin: 0rem 10rem;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-bottom: 2rem;
+}
+
+.introducere {
+    margin-top: 2rem;
+    font-size: 20px;
+    margin-left: 5rem;
+    line-height: 1.7;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.imagineintroducere {
+    display: flex;
+    margin: 0rem 2rem;
+    justify-content: space-evenly;
+    text-align: justify;
+    margin-bottom: 3rem;
+}
+
+.introduceretext {
+    display: flex;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0rem 2rem;
+    font-size: 18px;
+    line-height: 1.7;
+    word-spacing: 5;
+}
+
+.exempleimagini {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: auto;
+    height: auto;
+}
+
+#exemple {
+    display: flex;
+    width: 30%;
+    height: 30%;
 }
