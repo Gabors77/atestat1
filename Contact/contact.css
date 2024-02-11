@@ -75,3 +75,23 @@ li a {
     width: 25%;
     height: 25%;
 }
+
+#contact {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 11rem;
+    animation: FadeIn 2.5s;
+}
+
+.contact {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    line-height: 1.7;
+    word-spacing: 2.2;
+}
+
+@keyframes FadeIn {
+    0% { opacity: 0; }
+  100% { opacity: 1; }
+}
