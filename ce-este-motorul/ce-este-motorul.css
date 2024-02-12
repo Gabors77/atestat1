@@ -119,6 +119,30 @@ li a {
     }
 }
 
+.hover {
+    display: inline-block;
+    position: relative;
+    color: black;
+}
+
+.hover::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: black;
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.hover:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+
 .istorie {
     display: flex;
     margin: 0rem 10rem;
@@ -143,6 +167,11 @@ li a {
     margin-bottom: 3rem;
 }
 
+#introducere2 {
+    width: 40%;
+    height: 40%;
+}
+
 .introduceretext {
     display: flex;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -162,6 +191,22 @@ li a {
 
 #exemple {
     display: flex;
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
+}
+
+#cuprins {
+    display: flex;
+    justify-content: center;
+}
+
+.cuprins {
+    display: block;
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    line-height: 1.6;
+    
 }
