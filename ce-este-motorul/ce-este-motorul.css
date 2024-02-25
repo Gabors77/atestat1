@@ -188,14 +188,14 @@ li a {
 
 .underline {border-color: black;
     position: relative;
-    top: -10px;
-    width: 25%;
-    height: 5px;
+    top: -5px;
+    width: 20%;
+    height: 3px;
     border: none;
     background-color: black;
     border-radius: 3px;
     margin: 0;
-    right: -172px;
+    right: -337px;
 
 }
 
@@ -230,7 +230,7 @@ li a {
     
 }
 
-.revolutie1 {
+#revolutie1 {
     font-family: cursive;
     font-size: 2rem;
     text-align: center;
@@ -280,3 +280,226 @@ li a {
     margin-right: 2rem;
     text-align: center;
 }
+
+#cevarevo1 {
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#cevarevo1m {
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sfarsitrevo {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#sfarsitrevo {
+    height: 45%;
+    width: 45%;
+    margin-left: 3rem;
+}
+
+#cevarevo1mod {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin: 0 11rem;
+    line-height: 1.7;
+    margin-top: 4rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#revolutie2 {
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#cevarevo2 {
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#revolutie3 {
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#cevarevo3 {
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#revolutie4 {
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+#cevarevo4 {
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#aparitia1 {
+    font-family: cursive;
+    font-size: 20px;
+    margin: 4rem 6rem;
+    text-align: center;
+}
+
+#aparitie1 {
+    display: flex;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#imgaparitie1 {
+    width: 45%;
+    height: 45%;
+    margin-left: 3rem;
+}
+
+#aparitie1 {
+    display: flex;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#aparitie2 {
+    display: flex;
+    flex-direction: row-reverse;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#imgaparitie2 {
+    width: 35%;
+    height: 35%;
+    margin-right: 3rem;
+}
+
+#aparitie3 {
+    display: flex;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#imgaparitie3 {
+    width: 35%;
+    height: 35%;
+    margin-left: 3rem;
+}
+
+#aparitie4 {
+    display: flex;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#imgaparitie4 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 55%;
+    height: 55%;
+    margin-left: 2rem;
+}
+
+#aparitie5 {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: -7rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#imgaparitie5 {
+    width: 35%;
+    height: 35%;
+    margin-left: 3rem;
+}
+
+#aparitie6 {
+    display: flex;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#concluzie {
+    display: flex;
+    font-size: 20px;
+    margin: 0 8rem;
+    line-height: 1.7;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#title1 {
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
