@@ -107,7 +107,6 @@ li a {
 
     .stuff {
         display: inherit;
-
     }
 
     a {
@@ -186,7 +185,8 @@ li a {
     word-spacing: 5;
 }
 
-.underline {border-color: black;
+.underline {
+    border-color: black;
     position: relative;
     top: -5px;
     width: 20%;
