@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="ce-este-motorul.css" />
+    <link rel="icon" type="type/x-icon" href="../favicon.ico">
+    <title>Istoria Motoarelor cu ardere interna</title>
+  </head>
+  <body>
+    <div  class="navbar">
+    <img class="logo" src="../logo.svg" width="45" height="45" />
+    </div>
+  </body>
+</html>

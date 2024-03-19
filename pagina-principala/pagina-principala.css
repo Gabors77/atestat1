@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+.navbar {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+
+    .stuff {
+        display: inherit;
+    }
+
+    a {
+        text-decoration: none;
+        color: black;
+        padding: 10px;
+        margin: 5px;
+        font-family: cursive;
+    }
+}
+
