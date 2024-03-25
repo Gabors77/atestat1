@@ -101,7 +101,7 @@ li a {
 
 .navbar {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: space-between;
     align-items: center;
 
@@ -227,7 +227,6 @@ li a {
     margin-top: 3rem;
     margin-bottom: 3rem;
     line-height: 1.6;
-    
 }
 
 #revolutie1 {
